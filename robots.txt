@@ -1,0 +1,7 @@
+User-agent: *
+
+Allow: /
+
+Sitemap: https://giovanniussi.github.io/sitemap.xml
+
+Sitemap: https://giovanniussi.github.io/images_sitemap.xml
