@@ -1,12 +1,13 @@
-<!--	created with www.mysitemapgenerator.com	-->
-
- ﻿<?xml version="1.0" encoding="UTF-8"?>
-
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<!-- 	created with www.mysitemapgenerator.com	 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://giovanniussi.github.io/</loc>
+<lastmod>2023-08-12T21:07:18+01:00</lastmod>
+<priority>1.0</priority>
 	<loc>https://giovanniussi.github.io/</loc>
 	<lastmod>2023-08-12T18:54:31+01:00</lastmod>
 	<priority>1.0</priority>
+	
 	<image:image>
 			<image:loc>https://giovanniussi.github.io/img/weeping-willow-01-large.jpg</image:loc>
 	</image:image>
