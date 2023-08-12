@@ -1,108 +1,98 @@
-<!-- 	created with www.mysitemapgenerator.com	 -->
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<!-- created with www.mysitemapgenerator.com -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
 <loc>https://giovanniussi.github.io/</loc>
 <lastmod>2023-08-12T21:07:18+01:00</lastmod>
 <priority>1.0</priority>
-	<loc>https://giovanniussi.github.io/</loc>
-	<lastmod>2023-08-12T18:54:31+01:00</lastmod>
-	<priority>1.0</priority>
-	
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/weeping-willow-01-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/clower-02-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/rocks-on-the-river-03-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/lake-with-mountain-04-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/old-tree-trunk-05-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/embrace-of-two-mountains-06-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/photograph-of-mountains-07-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/rocks-in-the-river-08-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/some-samaras-09-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/undergrowth-snail-10-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/spider-under-a-flower-11-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/river-with-low-water-12-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/macro-photography-of-tiny-mushrooms-13-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/mountain-with-vegetation-14-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/mountains-and-apple-orchards-15-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/trees-flooded-by-the-river-16-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/insect-on-a-leaf-17-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/turbulent-water-current-18-large.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/giovanni-ussi-portrait.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/stream-merging-into-a-torrent-2.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/green-leaves-3.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/vegetation-4.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/still-green-hazelnut-5.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/the-waterfall-and-vegetation-6.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/understory-foliage-7.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/weeping-willow-on-a-green-lawn-8.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/two-cherries-on-the-tree-9.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/path-in-the-woods-10.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/berries-on-a-background-of-leaves-11.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/pond-with-abundant-vegetation-12.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/white-flower-with-large-petals-13.jpg</image:loc>
-	</image:image>
-	<image:image>
-			<image:loc>https://giovanniussi.github.io/img/weeping-willow-dipping-into-the-waters-of-the-lake-14.jpg</image:loc>
-	</image:image>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/</loc>
+<lastmod>2023-08-12T18:54:31+01:00</lastmod>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/weeping-willow-01-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/clower-02-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/rocks-on-the-river-03-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/lake-with-mountain-04-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/old-tree-trunk-05-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/embrace-of-two-mountains-06-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/photograph-of-mountains-07-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/rocks-in-the-river-08-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/some-samaras-09-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/undergrowth-snail-10-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/spider-under-a-flower-11-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/river-with-low-water-12-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/macro-photography-of-tiny-mushrooms-13-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/mountain-with-vegetation-14-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/mountains-and-apple-orchards-15-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/trees-flooded-by-the-river-16-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/insect-on-a-leaf-17-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/turbulent-water-current-18-large.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/giovanni-ussi-portrait.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/stream-merging-into-a-torrent-2.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/green-leaves-3.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/vegetation-4.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/still-green-hazelnut-5.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/the-waterfall-and-vegetation-6.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/understory-foliage-7.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/weeping-willow-on-a-green-lawn-8.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/two-cherries-on-the-tree-9.jpg</loc>
+</url>
+<url>
+<loc>https://giovanniussi.github.io/img/path-in-the-woods-10.jpg</loc>
 </url>
 </urlset>
